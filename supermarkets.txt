@@ -1,0 +1,7 @@
+ID,Address,City_x,State_x,Country_x,Name_x,Employees_x,City_y,State_y,Country_y,Name_y,Employees_y,Continent
+1,3666 21st St,San Francisco,CA 94114,USA, Madeira,8,San Francisco,CA 94114,USA, Madeira,8,USA North America
+2,735 Dolores St,San Francisco,CA 94119,USA,Bready Shop,15,San Francisco,CA 94119,USA,Bready Shop,15,USA North America
+3,332 Hill St,San Francisco,California 94114,USA,Super River,25,San Francisco,California 94114,USA,Super River,25,USA North America
+4,3995 23rd St,San Francisco,CA 94114,USA,Ben's Shop,10,San Francisco,CA 94114,USA,Ben's Shop,10,USA North America
+5,1056 Sanchez St,San Francisco,California,USA,Sanchez,12,San Francisco,California,USA,Sanchez,12,USA North America
+6,551 Alvarado St,San Francisco,CA 94114,USA,Richvalley,20,San Francisco,CA 94114,USA,Richvalley,20,USA North America
